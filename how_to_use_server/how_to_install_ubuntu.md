@@ -1,7 +1,19 @@
 
-*Copyright DongLi,2018*
+*Copyright DongLi, 2018-2019, revised on 2019-11-08*
 
-# 511工作站安装ubuntu16.04步骤
+# 工作站现已升级为ubuntu18.04
+
+   1. 升级后出现桌面环境无法使用的问题，具体解决方式可参考：
+      https://blog.csdn.net/weixin_37851840/article/details/84503671
+   
+   2. 建议使用浙大校内镜像源：
+      - 设置方式参考：https://blog.csdn.net/weixin_38481963/article/details/102750629
+      - 最新镜像源地址请查询：http://mirrors.zju.edu.cn/
+   
+   3. 如重新安装系统，可参考下方步骤，并将ubuntu16.04替换为需要的版本
+----
+
+## 511工作站安装ubuntu16.04步骤
 
 1. 选择一个镜像源下载ubuntu16.04桌面版64位镜像：
 
