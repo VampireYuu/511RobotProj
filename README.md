@@ -1,3 +1,3 @@
 # 511RobotProj
 
-2019-9-18
+this repositories is for doc sharing of lab-511
